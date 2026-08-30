@@ -17,6 +17,7 @@ Leetcode solutions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1872-stone-game-viii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1872-stone-game-viii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -38,6 +39,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
 |  |
 | ------- |
