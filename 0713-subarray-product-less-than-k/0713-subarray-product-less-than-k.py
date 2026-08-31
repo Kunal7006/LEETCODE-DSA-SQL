@@ -15,7 +15,7 @@ class Solution:
             while product >= k:
                 product = product // nums[left]
                 left=left+1
-            else:
-                count+=right-left+1
+            
+            count+=right-left+1
         
         return count
