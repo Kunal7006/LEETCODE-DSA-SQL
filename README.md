@@ -18,6 +18,7 @@ Leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0977-squares-of-a-sorted-array) |
 | [1872-stone-game-viii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -36,6 +37,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0713-subarray-product-less-than-k) |
 ## String
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Leetcode solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0713-subarray-product-less-than-k) |
 | [1872-stone-game-viii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
@@ -75,6 +78,7 @@ Leetcode solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0713-subarray-product-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Union-Find
 |  |
