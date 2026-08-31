@@ -16,6 +16,7 @@ Leetcode solutions
 | [0015-3sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0713-subarray-product-less-than-k) |
@@ -30,6 +31,7 @@ Leetcode solutions
 | [0015-3sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0977-squares-of-a-sorted-array) |
@@ -89,10 +91,19 @@ Leetcode solutions
 | ------- |
 | [0015-3sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0977-squares-of-a-sorted-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
