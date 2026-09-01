@@ -37,6 +37,7 @@ Leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0141-linked-list-cycle](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0844-backspace-string-compare) |
@@ -84,6 +85,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0141-linked-list-cycle) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
@@ -108,6 +110,7 @@ Leetcode solutions
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0141-linked-list-cycle) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Quicksort
 |  |
@@ -142,4 +145,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
