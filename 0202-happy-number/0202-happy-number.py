@@ -1,5 +1,5 @@
 class Solution:
-    def genNext(self, n: int) -> int:
+    def getNext(self, n):
         total = 0
 
         while n > 0:
@@ -9,16 +9,16 @@ class Solution:
 
         return total
 
-    def isHappy(self, n: int) -> bool:
-        fast = n
-        slow = n
+    def isHappy(self, n):
+        seen = set()
 
-        while True:
-            slow = self.genNext(slow)
-            fast = self.genNext(self.genNext(fast))
-
-            if slow == 1:
-                return True
-
-            if slow == fast:
+        while n != 1:
+            # If n is already seen, we are in a cycle
+            if n in seen:
                 return False
+
+            seen.add(n)
+
+            n = self.getNext(n)
+
+        return True
