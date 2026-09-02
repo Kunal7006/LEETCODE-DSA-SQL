@@ -6,6 +6,7 @@ Leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0202-happy-number) |
 | [1872-stone-game-viii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -40,6 +41,7 @@ Leetcode solutions
 | [0141-linked-list-cycle](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0202-happy-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0977-squares-of-a-sorted-array) |
@@ -88,6 +90,7 @@ Leetcode solutions
 | [0001-two-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0202-happy-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
@@ -153,4 +156,5 @@ Leetcode solutions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
