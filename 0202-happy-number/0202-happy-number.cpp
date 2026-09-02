@@ -1,32 +1,31 @@
 class Solution {
-    int genNext(int n ){
-        int sum =0;
-        while(n){
+public:
+    int getNext(int n) {
+        int sum = 0;
+
+        while (n > 0) {
             int digit = n % 10;
             sum += digit * digit;
-            n = n/10;
+            n /= 10;
         }
+
         return sum;
     }
-public:
+
     bool isHappy(int n) {
-        int fast = n;
-        int slow = n;
+        unordered_set<int> seen;
 
-        while(1){
-            slow = genNext(slow);
-            fast = genNext(genNext(fast));
-
-            if(slow == fast){
-                break;
-            }
-            if(slow == 1){
-                break;
+        while (n != 1) {
+            // If n is already seen, we are in a cycle
+            if (seen.count(n)) {
+                return false;
             }
 
+            seen.insert(n);
+
+            n = getNext(n);
         }
 
-        return slow ==1;
-
+        return true;
     }
 };
