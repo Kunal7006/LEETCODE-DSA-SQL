@@ -28,6 +28,7 @@ Leetcode solutions
 | [0457-circular-array-loop](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0977-squares-of-a-sorted-array) |
 | [1872-stone-game-viii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -111,6 +112,7 @@ Leetcode solutions
 | [0142-linked-list-cycle-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0202-happy-number) |
 | [0457-circular-array-loop](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0457-circular-array-loop) |
+| [0904-fruit-into-baskets](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0904-fruit-into-baskets) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
@@ -118,6 +120,7 @@ Leetcode solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0904-fruit-into-baskets) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Union-Find
 |  |
