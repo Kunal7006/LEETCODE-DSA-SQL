@@ -13,7 +13,7 @@ public:
 
             maxFreq = max(maxFreq, last[s[r]-'A']);
 
-            while((r-l+1)-maxFreq>k){
+            if((r-l+1)-maxFreq>k){
                 last[s[l]-'A']--;
                 l++;
             }
