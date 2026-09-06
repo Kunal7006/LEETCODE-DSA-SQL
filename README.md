@@ -70,6 +70,7 @@ Leetcode solutions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0115-distinct-subsequences](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0115-distinct-subsequences) |
 | [0844-backspace-string-compare](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0844-backspace-string-compare) |
 | [1927-sum-game](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1927-sum-game) |
@@ -110,6 +111,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0202-happy-number) |
@@ -120,6 +122,7 @@ Leetcode solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0904-fruit-into-baskets) |
