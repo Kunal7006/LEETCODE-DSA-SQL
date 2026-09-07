@@ -7,17 +7,31 @@ public:
         if(n>m){
             return false;
         }
-        sort(s1.begin(),s1.end());
+        vector<int> s1_freq(26,0);
+        vector<int> s2_freq(26,0);
 
-        for(int i =0 ;i<=m-n;i++){
-            string substring = s2.substr(i,n);
+        for(char &ch :s1){
+            s1_freq[ch-'a']++;
+        }
+        int i =0;
+        int j =0;
 
-            sort(substring.begin(),substring.end());
+        while(j<m){
+            s2_freq[s2[j] - 'a']++;
 
-            if(s1 == substring){
+            if(j-i+1 > n){ // time to shrink the window 
+                s2_freq[s2[i] - 'a']--;
+                i++;
+            }
+
+            if(s1_freq == s2_freq){
                 return true;
             }
+
+            j++;
         }
+
         return false;
+
     }
 };
