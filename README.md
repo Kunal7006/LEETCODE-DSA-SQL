@@ -21,6 +21,7 @@ Leetcode solutions
 | [0016-3sum-closest](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -99,6 +100,7 @@ Leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1872-stone-game-viii) |
@@ -226,4 +228,8 @@ Leetcode solutions
 | ------- |
 | [0143-reorder-list](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
