@@ -237,4 +237,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
