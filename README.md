@@ -24,6 +24,7 @@ Leetcode solutions
 | [0018-4sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0152-maximum-product-subarray) |
@@ -199,6 +200,7 @@ Leetcode solutions
 | [0015-3sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0075-sort-colors) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0977-squares-of-a-sorted-array) |
@@ -216,6 +218,7 @@ Leetcode solutions
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
