@@ -79,6 +79,7 @@ Leetcode solutions
 | [0844-backspace-string-compare](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Leetcode solutions
 | [0844-backspace-string-compare](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
@@ -110,6 +112,7 @@ Leetcode solutions
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1927-sum-game](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Game Theory
 |  |
 | ------- |
@@ -126,6 +129,7 @@ Leetcode solutions
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
