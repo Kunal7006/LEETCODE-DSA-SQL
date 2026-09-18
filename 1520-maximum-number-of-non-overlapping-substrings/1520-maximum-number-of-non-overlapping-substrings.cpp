@@ -5,7 +5,7 @@ public:
 
         vector<int> start(26, -1);
         vector<int> end(26, 0);
-        vector<bool> isValid(26, false);
+        vector<bool> isValid(26, true);
 
         vector<string> result;
 
@@ -22,7 +22,7 @@ public:
             if (start[c] == -1)
                 continue;
             
-            isValid[c]=true;
+            // isValid[c]=true;
 
             for (int i = start[c]; i <= end[c]; i++) {
                 if (start[s[i] - 'a'] < start[c]) {
