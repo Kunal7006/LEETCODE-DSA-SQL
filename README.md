@@ -112,6 +112,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0115-distinct-subsequences) |
@@ -278,6 +279,7 @@ Leetcode solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -436,4 +438,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
