@@ -120,6 +120,7 @@ Leetcode solutions
 | [0071-simplify-path](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0115-distinct-subsequences) |
+| [0383-ransom-note](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0409-longest-palindrome) |
@@ -205,6 +206,7 @@ Leetcode solutions
 | [0141-linked-list-cycle](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0424-longest-repeating-character-replacement) |
@@ -489,6 +491,7 @@ Leetcode solutions
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
