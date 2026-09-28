@@ -131,6 +131,7 @@ Leetcode solutions
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -307,6 +308,7 @@ Leetcode solutions
 | [1096-brace-expansion-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
@@ -471,6 +473,7 @@ Leetcode solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
