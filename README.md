@@ -49,6 +49,7 @@ Leetcode solutions
 | [0724-find-pivot-index](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0835-image-overlap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0918-maximum-sum-circular-subarray) |
@@ -111,6 +112,7 @@ Leetcode solutions
 | [0327-count-of-range-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0327-count-of-range-sum) |
 | [0704-binary-search](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -502,4 +504,8 @@ Leetcode solutions
 | [0383-ransom-note](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1189-maximum-number-of-balloons) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
