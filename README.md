@@ -40,6 +40,7 @@ Leetcode solutions
 | [0162-find-peak-element](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0327-count-of-range-sum) |
 | [0457-circular-array-loop](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0457-circular-array-loop) |
@@ -116,6 +117,7 @@ Leetcode solutions
 | [0162-find-peak-element](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0327-count-of-range-sum) |
 | [0704-binary-search](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0704-binary-search) |
