@@ -70,6 +70,7 @@ Leetcode solutions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -129,6 +130,7 @@ Leetcode solutions
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
 |  |
