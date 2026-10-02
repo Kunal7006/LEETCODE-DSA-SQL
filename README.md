@@ -33,6 +33,7 @@ Leetcode solutions
 | [0053-maximum-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0152-maximum-product-subarray) |
@@ -116,6 +117,7 @@ Leetcode solutions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -331,6 +333,7 @@ Leetcode solutions
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
