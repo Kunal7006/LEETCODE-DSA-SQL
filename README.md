@@ -139,6 +139,7 @@ Leetcode solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0076-minimum-window-substring) |
@@ -183,6 +184,7 @@ Leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0152-maximum-product-subarray) |
@@ -509,6 +511,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -516,6 +519,7 @@ Leetcode solutions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1096-brace-expansion-ii) |
 ## Counting
 |  |
