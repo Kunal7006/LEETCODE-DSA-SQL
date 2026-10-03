@@ -41,6 +41,7 @@ Leetcode solutions
 | [0162-find-peak-element](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0327-count-of-range-sum) |
@@ -122,6 +123,7 @@ Leetcode solutions
 | [0162-find-peak-element](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0327-count-of-range-sum) |
@@ -336,6 +338,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -398,6 +401,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0327-count-of-range-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0918-maximum-sum-circular-subarray) |
 ## Database
