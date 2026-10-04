@@ -164,6 +164,7 @@ Leetcode solutions
 | [0424-longest-repeating-character-replacement](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -186,6 +187,7 @@ Leetcode solutions
 | [0409-longest-palindrome](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -204,6 +206,7 @@ Leetcode solutions
 | [0115-distinct-subsequences](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0940-distinct-subsequences-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -361,6 +364,7 @@ Leetcode solutions
 | [0402-remove-k-digits](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -538,6 +542,7 @@ Leetcode solutions
 | [0020-valid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
