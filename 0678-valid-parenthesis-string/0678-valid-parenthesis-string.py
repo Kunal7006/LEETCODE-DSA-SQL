@@ -1,4 +1,5 @@
 class Solution:
+    #best approach
     def checkValidString(self, s: str) -> bool:
         min =0
         max =0
