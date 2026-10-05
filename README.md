@@ -9,6 +9,7 @@ Leetcode solutions
 | [0202-happy-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0202-happy-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1872-stone-game-viii) |
@@ -67,6 +68,7 @@ Leetcode solutions
 | [0875-koko-eating-bananas](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0986-interval-list-intersections) |
@@ -314,6 +316,7 @@ Leetcode solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -430,6 +433,7 @@ Leetcode solutions
 | [0327-count-of-range-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
 ## Database
 |  |
 | ------- |
@@ -514,6 +518,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Heap (Priority Queue)
 |  |
@@ -523,6 +528,7 @@ Leetcode solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -586,6 +592,7 @@ Leetcode solutions
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -595,4 +602,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
