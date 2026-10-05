@@ -56,6 +56,7 @@ Leetcode solutions
 | [0525-contiguous-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0724-find-pivot-index) |
@@ -167,6 +168,7 @@ Leetcode solutions
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0678-valid-parenthesis-string) |
+| [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0940-distinct-subsequences-ii) |
@@ -266,6 +268,7 @@ Leetcode solutions
 | [0525-contiguous-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1096-brace-expansion-ii) |
@@ -310,6 +313,7 @@ Leetcode solutions
 | [0347-top-k-frequent-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -517,6 +521,7 @@ Leetcode solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Binary Indexed Tree
 |  |
@@ -570,6 +575,7 @@ Leetcode solutions
 | [0347-top-k-frequent-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1189-maximum-number-of-balloons) |
 ## Ternary Search
 |  |
@@ -584,4 +590,9 @@ Leetcode solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
