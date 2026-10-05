@@ -1,46 +1,36 @@
 class Solution {
-    struct node{
-        int no;
-        int freq;
-
-        node(int a,int b){
-            no=a;
-            freq=b;
-        }
-
-    };
-
-    struct compare{
-      bool  operator()(node const& a,node const& b ){
-
-        return a.freq<b.freq;
-      }
-    };
-
 public:
+    typedef pair<int,int> P;
     vector<int> topKFrequent(vector<int>& nums, int k) {
+        unordered_map<int,int> mp;
 
-        unordered_map<int,int> m;
-
-        for(int i=0;i<nums.size();i++){
-            m[nums[i]]++;
+        for(int &num: nums){
+            mp[num]++;
         }
 
-        priority_queue<node,vector<node>,compare> heap;
+        // define min heap
+        priority_queue<P,vector<P>,greater<P>> pq;
 
-        for(auto it: m){
-            heap.push(node(it.first,it.second));
+        //push elements in min heap
+        //maintain size of k only 
+
+        for(auto& it:mp){
+            int value = it.first;
+            int freq = it.second;
+            
+            pq.push({freq,value});
+            
+            if(pq.size()>k){
+                pq.pop();
+            }        
         }
 
-        vector<int> ans;
-
-        while(k--){
-            node temp = heap.top();
-            heap.pop();
-            ans.push_back(temp.no);
+        vector<int> result;
+        while(!pq.empty()){
+            result.push_back(pq.top().second);
+            pq.pop();
         }
 
-        return ans;
-        
+        return result;
     }
 };
