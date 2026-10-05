@@ -6,7 +6,7 @@ class Solution:
         for num in arr:
             distance = abs(num-x)
 
-            heapq.heappush(heap,(-distance,-num))
+            heapq.heappush(heap,(-distance,-num)) # -num for tie breaking of dstance condition 
 
             if len(heap)>k:
                 heapq.heappop(heap)
