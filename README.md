@@ -43,6 +43,7 @@ Leetcode solutions
 | [0162-find-peak-element](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0287-find-the-duplicate-number) |
@@ -303,6 +304,7 @@ Leetcode solutions
 | [0018-4sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0977-squares-of-a-sorted-array) |
@@ -416,6 +418,7 @@ Leetcode solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0327-count-of-range-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0918-maximum-sum-circular-subarray) |
@@ -507,6 +510,7 @@ Leetcode solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Binary Indexed Tree
@@ -565,4 +569,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0852-peak-index-in-a-mountain-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
