@@ -57,6 +57,7 @@ Leetcode solutions
 | [0525-contiguous-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0658-find-k-closest-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0713-subarray-product-less-than-k) |
@@ -116,6 +117,7 @@ Leetcode solutions
 | [0457-circular-array-loop](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0658-find-k-closest-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0977-squares-of-a-sorted-array) |
@@ -138,6 +140,7 @@ Leetcode solutions
 | [0327-count-of-range-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0713-subarray-product-less-than-k) |
@@ -292,6 +295,7 @@ Leetcode solutions
 | [0424-longest-repeating-character-replacement](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0904-fruit-into-baskets) |
@@ -315,6 +319,7 @@ Leetcode solutions
 | [0347-top-k-frequent-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0658-find-k-closest-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0977-squares-of-a-sorted-array) |
@@ -526,6 +531,7 @@ Leetcode solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
