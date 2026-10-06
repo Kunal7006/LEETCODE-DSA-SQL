@@ -75,6 +75,7 @@ Leetcode solutions
 | [0986-interval-list-intersections](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -542,6 +543,7 @@ Leetcode solutions
 | [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Binary Indexed Tree
 |  |
