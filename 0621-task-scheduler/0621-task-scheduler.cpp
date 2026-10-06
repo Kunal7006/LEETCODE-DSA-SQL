@@ -1,6 +1,5 @@
 class Solution {
 public:
-    typedef pair<int,int> P;
     int leastInterval(vector<char>& tasks, int n) {
         vector<int> mp(26,0);
 
