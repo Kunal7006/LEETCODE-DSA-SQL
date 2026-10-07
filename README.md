@@ -169,6 +169,7 @@ Leetcode solutions
 | [0071-simplify-path](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0402-remove-k-digits) |
@@ -370,6 +371,7 @@ Leetcode solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -596,6 +598,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1096-brace-expansion-ii) |
 ## Counting
 |  |
