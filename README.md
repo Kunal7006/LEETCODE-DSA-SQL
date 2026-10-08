@@ -67,6 +67,7 @@ Leetcode solutions
 | [0835-image-overlap](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0918-maximum-sum-circular-subarray) |
@@ -208,6 +209,7 @@ Leetcode solutions
 | [0621-task-scheduler](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0767-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1927-sum-game) |
@@ -228,6 +230,7 @@ Leetcode solutions
 | [0152-maximum-product-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0678-valid-parenthesis-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0940-distinct-subsequences-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -556,6 +559,7 @@ Leetcode solutions
 | [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0767-reorganize-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
