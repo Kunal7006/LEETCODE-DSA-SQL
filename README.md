@@ -35,6 +35,7 @@ Leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0057-insert-interval) |
@@ -647,6 +648,7 @@ Leetcode solutions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0046-permutations) |
 | [0301-remove-invalid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1096-brace-expansion-ii) |
 ## Counting
