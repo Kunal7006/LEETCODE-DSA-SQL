@@ -432,6 +432,7 @@ Leetcode solutions
 | [0020-valid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0402-remove-k-digits) |
@@ -565,14 +566,17 @@ Leetcode solutions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
