@@ -435,6 +435,7 @@ Leetcode solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0503-next-greater-element-ii) |
@@ -569,18 +570,21 @@ Leetcode solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
