@@ -16,6 +16,7 @@ Leetcode solutions
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1927-sum-game) |
+| [2235-add-two-integers](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2235-add-two-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
