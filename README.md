@@ -444,6 +444,7 @@ Leetcode solutions
 | [0226-invert-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -620,6 +621,7 @@ Leetcode solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -667,6 +669,7 @@ Leetcode solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
