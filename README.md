@@ -618,6 +618,7 @@ Leetcode solutions
 | [0110-balanced-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0226-invert-binary-tree) |
@@ -645,6 +646,7 @@ Leetcode solutions
 | [0110-balanced-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0226-invert-binary-tree) |
@@ -672,6 +674,7 @@ Leetcode solutions
 | [0110-balanced-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0226-invert-binary-tree) |
@@ -774,6 +777,7 @@ Leetcode solutions
 | [0022-generate-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0046-permutations) |
+| [0113-path-sum-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1096-brace-expansion-ii) |
