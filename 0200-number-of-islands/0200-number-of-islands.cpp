@@ -5,8 +5,7 @@ public:
         if(r>=m || r<0 || c>=n || c<0){
             return true;
         }
-        int val = grid[r][c]-'0';
-        if(val==0){
+        if(grid[r][c]=='0'){
             return true;
         }
         grid[r][c]='0';
@@ -26,8 +25,7 @@ public:
 
         for(int i=0;i<m;i++){
             for(int j =0;j<n;j++){
-                int val = grid[i][j]-'0';
-                if(val==1){
+                if(grid[i][j]=='1'){
                     if(dfs(grid,i,j)==true){
                         count++;
                     }
