@@ -239,6 +239,7 @@ Leetcode solutions
 | [3498-reverse-degree-of-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -767,6 +768,7 @@ Leetcode solutions
 | [1046-last-stone-weight](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -916,4 +918,12 @@ Leetcode solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
