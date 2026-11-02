@@ -7,6 +7,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0202-happy-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0836-rectangle-overlap) |
@@ -65,6 +66,7 @@ Leetcode solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0410-split-array-largest-sum) |
 | [0457-circular-array-loop](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0525-contiguous-array) |
@@ -403,6 +405,7 @@ Leetcode solutions
 | [0295-find-median-from-data-stream](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0621-task-scheduler) |
