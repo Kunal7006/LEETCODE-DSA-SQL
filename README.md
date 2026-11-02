@@ -391,6 +391,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -475,6 +476,7 @@ Leetcode solutions
 | [0200-number-of-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0301-remove-invalid-parentheses) |
+| [0547-number-of-provinces](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1096-brace-expansion-ii) |
@@ -701,6 +703,7 @@ Leetcode solutions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0951-flip-equivalent-binary-trees) |
@@ -929,6 +932,7 @@ Leetcode solutions
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0547-number-of-provinces) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
