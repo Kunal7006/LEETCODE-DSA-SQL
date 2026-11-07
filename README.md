@@ -111,6 +111,7 @@ Leetcode solutions
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -804,6 +805,7 @@ Leetcode solutions
 | [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1882-process-tasks-using-servers](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
