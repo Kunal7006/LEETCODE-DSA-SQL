@@ -102,6 +102,7 @@ Leetcode solutions
 | [1046-last-stone-weight](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1254-number-of-closed-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -412,6 +413,7 @@ Leetcode solutions
 | [0547-number-of-provinces](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -506,6 +508,7 @@ Leetcode solutions
 | [1096-brace-expansion-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -519,6 +522,7 @@ Leetcode solutions
 | [0835-image-overlap](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -738,6 +742,7 @@ Leetcode solutions
 | [0951-flip-equivalent-binary-trees](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -885,6 +890,7 @@ Leetcode solutions
 | [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1267-count-servers-that-communicate) |
 ## Ternary Search
 |  |
 | ------- |
