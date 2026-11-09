@@ -107,6 +107,7 @@ Leetcode solutions
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -556,6 +557,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0844-backspace-string-compare) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
@@ -805,6 +807,7 @@ Leetcode solutions
 | [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -832,6 +835,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0327-count-of-range-sum) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Treap
 |  |
 | ------- |
