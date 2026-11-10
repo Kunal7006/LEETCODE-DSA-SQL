@@ -109,6 +109,7 @@ Leetcode solutions
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1631-path-with-minimum-effort](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -207,6 +208,7 @@ Leetcode solutions
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -417,6 +419,7 @@ Leetcode solutions
 | [1254-number-of-closed-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1631-path-with-minimum-effort](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
@@ -512,6 +515,7 @@ Leetcode solutions
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -527,6 +531,7 @@ Leetcode solutions
 | [1254-number-of-closed-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -747,6 +752,7 @@ Leetcode solutions
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -818,6 +824,7 @@ Leetcode solutions
 | [1046-last-stone-weight](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1631-path-with-minimum-effort](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -997,4 +1004,5 @@ Leetcode solutions
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
