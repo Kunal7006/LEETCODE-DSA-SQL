@@ -504,6 +504,7 @@ Leetcode solutions
 | [0301-remove-invalid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0994-rotting-oranges) |
@@ -740,6 +741,7 @@ Leetcode solutions
 | [0547-number-of-provinces](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -808,6 +810,7 @@ Leetcode solutions
 | [0630-course-schedule-iii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0767-reorganize-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -974,11 +977,13 @@ Leetcode solutions
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0785-is-graph-bipartite) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Graph Coloring
 |  |
@@ -988,4 +993,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0785-is-graph-bipartite) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
