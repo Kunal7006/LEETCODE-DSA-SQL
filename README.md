@@ -86,6 +86,7 @@ Leetcode solutions
 | [0713-subarray-product-less-than-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -200,6 +201,7 @@ Leetcode solutions
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0713-subarray-product-less-than-k) |
+| [0778-swim-in-rising-water](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0875-koko-eating-bananas) |
@@ -324,6 +326,7 @@ Leetcode solutions
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0778-swim-in-rising-water) |
 | [1872-stone-game-viii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
@@ -417,6 +420,7 @@ Leetcode solutions
 | [0130-surrounded-regions](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1267-count-servers-that-communicate) |
@@ -510,6 +514,7 @@ Leetcode solutions
 | [0547-number-of-provinces](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0994-rotting-oranges) |
@@ -528,6 +533,7 @@ Leetcode solutions
 | [0200-number-of-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-swim-in-rising-water](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1254-number-of-closed-islands) |
@@ -749,6 +755,7 @@ Leetcode solutions
 | [0572-subtree-of-another-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -820,6 +827,7 @@ Leetcode solutions
 | [0692-top-k-frequent-words](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
@@ -1006,5 +1014,6 @@ Leetcode solutions
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
