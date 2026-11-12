@@ -230,6 +230,7 @@ Leetcode solutions
 | [0071-simplify-path](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0383-ransom-note) |
@@ -361,6 +362,7 @@ Leetcode solutions
 | [0076-minimum-window-substring](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0202-happy-number) |
@@ -509,6 +511,7 @@ Leetcode solutions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0226-invert-binary-tree) |
@@ -1023,4 +1026,8 @@ Leetcode solutions
 | [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1631-path-with-minimum-effort) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
