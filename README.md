@@ -307,6 +307,7 @@ Leetcode solutions
 | [0410-split-array-largest-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0940-distinct-subsequences-ii) |
@@ -517,6 +518,7 @@ Leetcode solutions
 | [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1096-brace-expansion-ii) |
@@ -758,6 +760,7 @@ Leetcode solutions
 | [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1254-number-of-closed-islands) |
@@ -829,6 +832,7 @@ Leetcode solutions
 | [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
@@ -997,11 +1001,13 @@ Leetcode solutions
 | [0547-number-of-provinces](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Graph Coloring
 |  |
