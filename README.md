@@ -130,6 +130,7 @@ Leetcode solutions
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3524-find-x-value-of-array-i) |
@@ -417,6 +418,7 @@ Leetcode solutions
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Union-Find
 |  |
@@ -579,6 +581,7 @@ Leetcode solutions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2487-remove-nodes-from-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -593,6 +596,7 @@ Leetcode solutions
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2487-remove-nodes-from-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -691,11 +695,13 @@ Leetcode solutions
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Tree
 |  |
 | ------- |
@@ -860,6 +866,7 @@ Leetcode solutions
 | [0327-count-of-range-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0327-count-of-range-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
