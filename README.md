@@ -76,6 +76,7 @@ Leetcode solutions
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0457-circular-array-loop](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0525-contiguous-array) |
@@ -320,6 +321,7 @@ Leetcode solutions
 | [0152-maximum-product-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -936,6 +938,7 @@ Leetcode solutions
 | [0113-path-sum-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1096-brace-expansion-ii) |
 ## Counting
 |  |
@@ -1058,4 +1061,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0127-word-ladder) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
