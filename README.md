@@ -69,6 +69,7 @@ Leetcode solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -205,6 +206,7 @@ Leetcode solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0410-split-array-largest-sum) |
@@ -321,6 +323,7 @@ Leetcode solutions
 | [0131-palindrome-partitioning](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0509-fibonacci-number) |
@@ -1072,4 +1075,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0494-target-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
