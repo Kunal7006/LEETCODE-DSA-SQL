@@ -3,16 +3,18 @@ public:
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
 
-        vector<int> t(n, 1); // t[i] = longest inc subseq ending at i index
-        int maxLIS = 1;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < i; j++) {
-                if (nums[j] < nums[i]) {
-                    t[i] = max(t[i], t[j] + 1);
-                    maxLIS = max(maxLIS, t[i]);
-                }
+        vector<int> sorted; // empty in the beginning
+
+        for(int i =0;i<n;i++){
+            auto it = lower_bound(sorted.begin(),sorted.end(),nums[i]); // just greater than or equal to
+
+            if(it == sorted.end()){
+                sorted.push_back(nums[i]); // greatest : so insert it 
+            }else{
+                *it = nums[i]; // replace with nums[i]
             }
+
         }
-        return maxLIS;
+        return sorted.size();
     }
 };
