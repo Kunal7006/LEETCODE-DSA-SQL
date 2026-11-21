@@ -264,6 +264,7 @@ Leetcode solutions
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -334,6 +335,7 @@ Leetcode solutions
 | [0871-minimum-number-of-refueling-stops](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0940-distinct-subsequences-ii) |
+| [1143-longest-common-subsequence](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -1084,4 +1086,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
