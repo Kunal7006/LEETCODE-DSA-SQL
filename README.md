@@ -6,6 +6,7 @@ Leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -320,6 +321,7 @@ Leetcode solutions
 | [0022-generate-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -920,6 +922,7 @@ Leetcode solutions
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sweep Line
