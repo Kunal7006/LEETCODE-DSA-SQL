@@ -274,6 +274,7 @@ Leetcode solutions
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
