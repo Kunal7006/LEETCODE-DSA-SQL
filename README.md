@@ -60,6 +60,7 @@ Leetcode solutions
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -292,6 +293,7 @@ Leetcode solutions
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0410-split-array-largest-sum) |
@@ -329,6 +331,7 @@ Leetcode solutions
 | [0070-climbing-stairs](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0152-maximum-product-subarray) |
