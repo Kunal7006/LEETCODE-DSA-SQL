@@ -15,6 +15,7 @@ Leetcode solutions
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -112,6 +113,7 @@ Leetcode solutions
 | [1254-number-of-closed-islands](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -373,6 +375,7 @@ Leetcode solutions
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -995,10 +998,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/1352-product-of-the-last-k-numbers) |
 ## Memoization
 |  |
 | ------- |
