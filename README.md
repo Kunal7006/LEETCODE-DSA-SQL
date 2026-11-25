@@ -172,6 +172,7 @@ Leetcode solutions
 | [3886-sum-of-sortable-integers](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -241,6 +242,7 @@ Leetcode solutions
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -447,6 +449,7 @@ Leetcode solutions
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3934-smallest-unique-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1049,6 +1052,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3934-smallest-unique-subarray) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -1119,4 +1123,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Kunal7006/LEETCODE-DSA-SQL/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
